@@ -35,22 +35,3 @@ This portfolio was built from scratch focusing on modern web development practic
 * **[Formspree](https://formspree.io/)** — Form backend to handle contact submissions without needing a custom server.
 * **[Vercel](https://vercel.com/)** — Hosting and continuous deployment.
 
-## 🚀 How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/rahibladex/rahibladex-portfolio.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd rahibladex-portfolio
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
