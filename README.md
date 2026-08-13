@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# RAHIBLADEX — Personal Portfolio
 
-## Getting Started
+![Portfolio Preview](https://img.shields.io/badge/Status-Live-success)
+![Next.js](https://img.shields.io/badge/Next.js-16.3-black?logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38B2AC?logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animated-FF0080?logo=framer)
 
-First, run the development server:
+## 🌐 Live Website
+[**View the live portfolio here**](https://rahibladex-portfolio.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 👨‍💻 About The Project
+This is the personal developer portfolio of **Rahul Jangra (RAHIBLADEX)**, a 2nd Year BCA student specializing in **Artificial Intelligence & Machine Learning** at St. Agnes College, Mangaluru. 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The website serves as a digital resume and project showcase, highlighting a unique background that blends the computational rigor of neural networks (like GNN-LSTM models) with the leadership and discipline gained from active Cadet Corps training.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+It features a sleek, modern, dark-themed design with premium glassmorphism effects, neon emerald/cyan accents, and butter-smooth scrolling animations to create a highly engaging user experience.
 
-## Learn More
+## ✨ Key Features
+- **Hero Section**: High-impact introduction with animated floating background shapes and a dynamic neon gradient headline.
+- **About Me**: A clean narrative blending AI engineering focus with disciplined leadership.
+- **Featured Projects**: Interactive glassmorphism cards showcasing real-world projects like *Cortex City* (Traffic Simulation) and *Automated GitHub CI/CD Workflows*.
+- **Skills Showcase**: Categorized technology stacks with smoothly animated, percentage-based progress bars.
+- **Interactive Timeline**: A vertical, animated timeline tracking educational milestones from Army Public School, Chennai to St. Agnes College.
+- **Functional Contact Form**: A fully working contact form integrated with Formspree, delivering messages directly to email.
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Built With (Tech Stack)
+This portfolio was built from scratch focusing on modern web development practices, high performance, and aesthetic excellence.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* **[Next.js (App Router)](https://nextjs.org/)** — React framework for server-side rendering and static site generation.
+* **[Tailwind CSS (v4)](https://tailwindcss.com/)** — Utility-first CSS framework for rapid UI styling, customized with a bespoke dark theme and neon glow effects.
+* **[Framer Motion](https://www.framer.com/motion/)** — Production-ready motion library for React, powering all the scroll-triggered reveal animations, floating elements, and the ultra-smooth custom page scrolling.
+* **[Lucide React](https://lucide.dev/)** — Beautiful & consistent iconography.
+* **[Formspree](https://formspree.io/)** — Form backend to handle contact submissions without needing a custom server.
+* **[Vercel](https://vercel.com/)** — Hosting and continuous deployment.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🚀 How to Run Locally
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rahibladex/rahibladex-portfolio.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd rahibladex-portfolio
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
