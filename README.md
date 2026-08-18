@@ -20,7 +20,7 @@ It features a sleek, modern, dark-themed design with premium glassmorphism effec
 ## ✨ Key Features
 - **Hero Section**: High-impact introduction with animated floating background shapes and a dynamic neon gradient headline.
 - **About Me**: A clean narrative blending AI engineering focus with disciplined leadership.
-- **Featured Projects**: Interactive glassmorphism cards showcasing real-world projects like *Cortex City* (Traffic Simulation) and *Automated GitHub CI/CD Workflows*.
+- **Dynamic GitHub Project Sync**: Automatically fetches and showcases any newly uploaded repositories from GitHub in real time with interactive categories, search, live stars/forks, demo links, and glowing tech cards.
 - **Skills Showcase**: Categorized technology stacks with smoothly animated, percentage-based progress bars.
 - **Interactive Timeline**: A vertical, animated timeline tracking educational milestones from Army Public School, Chennai to St. Agnes College.
 - **Functional Contact Form**: A fully working contact form integrated with Formspree, delivering messages directly to email.
@@ -28,10 +28,18 @@ It features a sleek, modern, dark-themed design with premium glassmorphism effec
 ## 🛠️ Built With (Tech Stack)
 This portfolio was built from scratch focusing on modern web development practices, high performance, and aesthetic excellence.
 
-* **[Next.js (App Router)](https://nextjs.org/)** — React framework for server-side rendering and static site generation.
+* **[Next.js (App Router)](https://nextjs.org/)** — React framework for server-side rendering, API route caching, and static optimization.
 * **[Tailwind CSS (v4)](https://tailwindcss.com/)** — Utility-first CSS framework for rapid UI styling, customized with a bespoke dark theme and neon glow effects.
-* **[Framer Motion](https://www.framer.com/motion/)** — Production-ready motion library for React, powering all the scroll-triggered reveal animations, floating elements, and the ultra-smooth custom page scrolling.
+* **[GitHub REST API](https://docs.github.com/en/rest)** — Automated live synchronization of personal repositories, topic tags, stars, and deployment URLs.
+* **[Framer Motion](https://www.framer.com/motion/)** — Production-ready motion library for React, powering scroll-triggered reveals and interactive filter animations.
 * **[Lucide React](https://lucide.dev/)** — Beautiful & consistent iconography.
 * **[Formspree](https://formspree.io/)** — Form backend to handle contact submissions without needing a custom server.
 * **[Vercel](https://vercel.com/)** — Hosting and continuous deployment.
+
+## 🚀 How Dynamic Projects Work
+Whenever you push a new repository to [github.com/rahibladex](https://github.com/rahibladex):
+1. The `/api/github-projects` endpoint dynamically pulls your latest public repositories.
+2. It enriches the repo with language badges, tech icons, tags, live stars, and formatted timestamps.
+3. If you set a **Homepage / Website URL** in your GitHub repo settings (like `https://your-demo.vercel.app`), a **Demo** button appears automatically next to the **Code** button!
+4. Built-in 5-minute caching ensures blazing-fast page loads and zero rate limiting.
 
