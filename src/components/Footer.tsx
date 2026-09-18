@@ -47,8 +47,9 @@ export default function Footer() {
               href="#"
               className="mb-2 inline-block text-lg font-bold tracking-wider"
             >
-              <span className="gradient-text">RAHIB</span>
-              <span className="text-slate-200">LADEX</span>
+              <span className="gradient-text">RAHI</span>
+              <span className="text-slate-200">BLADE</span>
+              <span className="gradient-text">X</span>
             </a>
             <p className="flex items-center justify-center gap-1 text-sm text-slate-600 sm:justify-start">
               © {currentYear} Rahul Jangra. Built with{" "}
