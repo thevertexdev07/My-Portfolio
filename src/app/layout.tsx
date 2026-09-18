@@ -46,6 +46,8 @@ export const metadata: Metadata = {
   },
 };
 
+import MouseGlow from "@/components/MouseGlow";
+
 export default function RootLayout({
   children,
 }: {
@@ -53,7 +55,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={`${inter.variable} dark`}>
-      <body className="min-h-screen bg-dark-900 font-sans text-slate-200 antialiased">
+      <body className="min-h-screen bg-dark-900 font-sans text-slate-200 antialiased relative">
+        <MouseGlow />
         {children}
       </body>
     </html>
