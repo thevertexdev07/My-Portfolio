@@ -157,7 +157,7 @@ const REPO_OVERRIDES: Record<
     isFeatured: true,
   },
   "my-portfolio": {
-    title: "RAHIBLADEX Portfolio",
+    title: "VERTEX.DEV Portfolio",
     description:
       "Modern dark-themed developer portfolio featuring dynamic GitHub sync, neon glassmorphism UI, Framer Motion interactive animations, and responsive App Router architecture.",
     tags: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "GitHub API"],

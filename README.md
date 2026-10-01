@@ -1,4 +1,4 @@
-# RAHIBLADEX — Personal Portfolio
+# VERTEX.DEV — Personal Portfolio
 
 ![Portfolio Preview](https://img.shields.io/badge/Status-Live-success)
 ![Next.js](https://img.shields.io/badge/Next.js-16.3-black?logo=next.js)
@@ -11,7 +11,7 @@
 ---
 
 ## 👨‍💻 About The Project
-This is the personal developer portfolio of **Rahul Jangra (RAHIBLADEX)**, a 2nd Year BCA student specializing in **Artificial Intelligence & Machine Learning** at St. Agnes College, Mangaluru. 
+This is the personal developer portfolio of **Rahul Jangra (VERTEX.DEV)**, a 2nd Year BCA student specializing in **Artificial Intelligence & Machine Learning** at St. Agnes College, Mangaluru. 
 
 The website serves as a digital resume and project showcase, highlighting a unique background that blends the computational rigor of neural networks (like GNN-LSTM models) with the leadership and discipline gained from active Cadet Corps training.
 

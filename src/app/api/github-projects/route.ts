@@ -13,7 +13,7 @@ export async function GET() {
   try {
     const headers: Record<string, string> = {
       Accept: "application/vnd.github.v3+json",
-      "User-Agent": "Rahibladex-Portfolio-App",
+      "User-Agent": "Vertex.dev-Portfolio-App",
     };
 
     if (process.env.GITHUB_TOKEN) {
