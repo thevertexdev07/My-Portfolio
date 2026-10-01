@@ -97,7 +97,7 @@ export default function Header() {
             </motion.a>
           ))}
           <motion.a
-            href="https://github.com/vertex.dev"
+            href="https://github.com/thevertexdev07"
             target="_blank"
             rel="noopener noreferrer"
             className="ml-4 rounded-full border border-emerald-500/30 px-5 py-2 text-sm font-medium text-emerald-400 transition-all hover:border-emerald-500/60 hover:bg-emerald-500/10 hover:shadow-lg hover:shadow-emerald-500/10"
@@ -144,7 +144,7 @@ export default function Header() {
                 </motion.a>
               ))}
               <motion.a
-                href="https://github.com/vertex.dev"
+                href="https://github.com/thevertexdev07"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-2 rounded-full border border-emerald-500/30 px-5 py-3 text-center text-sm font-medium text-emerald-400 transition-all hover:bg-emerald-500/10"

@@ -127,7 +127,7 @@ export default function HeroSection() {
           </motion.a>
 
           <motion.a
-            href="https://github.com/vertex.dev"
+            href="https://github.com/thevertexdev07"
             target="_blank"
             rel="noopener noreferrer"
             className="group inline-flex items-center gap-2 rounded-full border border-slate-700 px-8 py-3.5 text-sm font-semibold text-slate-300 transition-all hover:border-slate-500 hover:bg-white/5 hover:text-white"
