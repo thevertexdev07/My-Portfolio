@@ -1,6 +1,6 @@
 import { GitHubRawRepo, ProjectItem } from "@/types/project";
 
-export const GITHUB_USERNAME = process.env.NEXT_PUBLIC_GITHUB_USERNAME || "rahibladex";
+export const GITHUB_USERNAME = process.env.NEXT_PUBLIC_GITHUB_USERNAME || "vertex.dev";
 
 /**
  * Format relative time (e.g. "2 days ago", "just now", "1 month ago")
@@ -161,7 +161,7 @@ const REPO_OVERRIDES: Record<
     description:
       "Modern dark-themed developer portfolio featuring dynamic GitHub sync, neon glassmorphism UI, Framer Motion interactive animations, and responsive App Router architecture.",
     tags: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "GitHub API"],
-    homepage: "https://rahibladex-portfolio.vercel.app/",
+    homepage: "https://vertex.dev-portfolio.vercel.app/",
     isFeatured: true,
   },
 };
@@ -235,7 +235,7 @@ export const FALLBACK_PROJECTS: ProjectItem[] = [
     description:
       "A traffic simulation platform powered by GNN-LSTM neural networks. Integrates real-time APIs to model urban traffic flow, predict congestion, and optimize route planning using graph-based deep learning.",
     tags: ["Python", "GNN-LSTM", "TensorFlow", "API Integration", "NetworkX"],
-    github: "https://github.com/rahibladex/Cortex-City",
+    github: "https://github.com/vertex.dev/Cortex-City",
     homepage: "https://cortex-city-seven.vercel.app/",
     language: "JavaScript",
     stars: 1,
@@ -255,7 +255,7 @@ export const FALLBACK_PROJECTS: ProjectItem[] = [
     description:
       "Intelligent acoustic threat monitoring and sensor telemetry system. Engineered for acoustic frequency processing, edge response detection, and automated threshold alerts.",
     tags: ["Kotlin", "Sensors", "Edge AI", "Signal Processing", "Telemetry"],
-    github: "https://github.com/rahibladex/AcousticGuard",
+    github: "https://github.com/vertex.dev/AcousticGuard",
     homepage: null,
     language: "Kotlin",
     stars: 0,
@@ -275,7 +275,7 @@ export const FALLBACK_PROJECTS: ProjectItem[] = [
     description:
       "End-to-end machine learning pipeline configurations — from data preprocessing and feature engineering to model training, evaluation, and deployment-ready setups.",
     tags: ["Python", "PyTorch", "Scikit-learn", "Pandas", "NumPy"],
-    github: "https://github.com/rahibladex",
+    github: "https://github.com/vertex.dev",
     homepage: null,
     language: "Python",
     stars: 0,
@@ -295,7 +295,7 @@ export const FALLBACK_PROJECTS: ProjectItem[] = [
     description:
       "Automated GitHub Actions pipelines for dynamic profile READMEs, automated testing, and deployment workflows — turning repositories into self-maintaining systems.",
     tags: ["GitHub Actions", "YAML", "Shell", "CI/CD", "Automation"],
-    github: "https://github.com/rahibladex",
+    github: "https://github.com/vertex.dev",
     homepage: null,
     language: "YAML",
     stars: 0,

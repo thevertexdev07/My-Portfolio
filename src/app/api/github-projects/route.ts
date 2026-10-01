@@ -46,7 +46,7 @@ export async function GET() {
 
     const rawRepos: GitHubRawRepo[] = await response.json();
 
-    // Filter out non-project repositories (such as the personal profile README repo `rahibladex`)
+    // Filter out non-project repositories (such as the personal profile README repo `vertex.dev`)
     const filteredRepos = rawRepos.filter((repo) => {
       // Hide the special profile README repo whose name matches the username
       if (repo.name.toLowerCase() === GITHUB_USERNAME.toLowerCase()) {

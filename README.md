@@ -6,7 +6,7 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animated-FF0080?logo=framer)
 
 ## 🌐 Live Website
-[**View the live portfolio here**](https://rahibladex-portfolio.vercel.app/)
+[**View the live portfolio here**](https://vertex.dev-portfolio.vercel.app/)
 
 ---
 
@@ -37,7 +37,7 @@ This portfolio was built from scratch focusing on modern web development practic
 * **[Vercel](https://vercel.com/)** — Hosting and continuous deployment.
 
 ## 🚀 How Dynamic Projects Work
-Whenever you push a new repository to [github.com/rahibladex](https://github.com/rahibladex):
+Whenever you push a new repository to [github.com/vertex.dev](https://github.com/vertex.dev):
 1. The `/api/github-projects` endpoint dynamically pulls your latest public repositories.
 2. It enriches the repo with language badges, tech icons, tags, live stars, and formatted timestamps.
 3. If you set a **Homepage / Website URL** in your GitHub repo settings (like `https://your-demo.vercel.app`), a **Demo** button appears automatically next to the **Code** button!

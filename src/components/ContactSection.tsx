@@ -61,13 +61,13 @@ export default function ContactSection() {
     {
       icon: GithubIcon,
       label: "GitHub",
-      href: "https://github.com/rahibladex",
+      href: "https://github.com/vertex.dev",
       color: "hover:text-white hover:bg-white/10",
     },
     {
       icon: Mail,
       label: "Email",
-      href: "mailto:rahibladex@gmail.com",
+      href: "mailto:vertex.dev@gmail.com",
       color: "hover:text-emerald-400 hover:bg-emerald-500/10",
     },
   ];
