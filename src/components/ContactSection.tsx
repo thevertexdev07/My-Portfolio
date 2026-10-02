@@ -61,7 +61,7 @@ export default function ContactSection() {
     {
       icon: GithubIcon,
       label: "GitHub",
-      href: "https://github.com/thevertexdev07",
+      href: "https://github.com/builtbyrahulX",
       color: "hover:text-white hover:bg-white/10",
     },
     {

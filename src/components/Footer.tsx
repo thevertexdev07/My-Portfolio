@@ -24,7 +24,7 @@ export default function Footer() {
   const socials = [
     {
       icon: GithubIcon,
-      href: "https://github.com/thevertexdev07",
+      href: "https://github.com/builtbyrahulX",
       label: "GitHub",
     },
     {
@@ -78,13 +78,13 @@ export default function Footer() {
         {/* GitHub Status Badge */}
         <div className="mt-8 flex justify-center">
           <a
-            href="https://github.com/thevertexdev07"
+            href="https://github.com/builtbyrahulX"
             target="_blank"
             rel="noopener noreferrer"
           >
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src="https://img.shields.io/github/followers/thevertexdev07?style=social&label=Follow%20%40vertex.dev"
+              src="https://img.shields.io/github/followers/builtbyrahulX?style=social&label=Follow%20%40vertex.dev"
               alt="GitHub followers"
               className="opacity-60 transition-opacity hover:opacity-100"
             />
