@@ -75,9 +75,9 @@ export default function Header() {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
         >
-          <span className="gradient-text">VERTEX</span>
-          <span className="text-slate-200">.</span>
-          <span className="gradient-text">DEV</span>
+          <span className="gradient-text">builtby</span>
+          <span className="text-slate-200">rahul</span>
+          <span className="gradient-text">X</span>
         </motion.a>
 
         {/* Desktop Navigation */}
