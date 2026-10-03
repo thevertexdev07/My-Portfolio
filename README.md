@@ -1,4 +1,4 @@
-# VERTEX.DEV — Personal Portfolio
+# BUILTBYRAHULX — Personal Portfolio
 
 ![Portfolio Preview](https://img.shields.io/badge/Status-Live-success)
 ![Next.js](https://img.shields.io/badge/Next.js-16.3-black?logo=next.js)
@@ -6,12 +6,12 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animated-FF0080?logo=framer)
 
 ## 🌐 Live Website
-[**View the live portfolio here**](https://vertex.dev-portfolio.vercel.app/)
+[**View the live portfolio here**](https://builtbyrahulX-portfolio.vercel.app/)
 
 ---
 
 ## 👨‍💻 About The Project
-This is the personal developer portfolio of **Rahul Jangra (VERTEX.DEV)**, a 2nd Year BCA student specializing in **Artificial Intelligence & Machine Learning** at St. Agnes College, Mangaluru. 
+This is the personal developer portfolio of **Rahul Jangra (BUILTBYRAHULX)**, a 2nd Year BCA student specializing in **Artificial Intelligence & Machine Learning** at St. Agnes College, Mangaluru. 
 
 The website serves as a digital resume and project showcase, highlighting a unique background that blends the computational rigor of neural networks (like GNN-LSTM models) with the leadership and discipline gained from active Cadet Corps training.
 

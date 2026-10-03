@@ -67,7 +67,7 @@ export default function ContactSection() {
     {
       icon: Mail,
       label: "Email",
-      href: "mailto:vertex.dev@gmail.com",
+      href: "mailto:builtbyrahulX@gmail.com",
       color: "hover:text-emerald-400 hover:bg-emerald-500/10",
     },
   ];

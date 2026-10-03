@@ -157,11 +157,11 @@ const REPO_OVERRIDES: Record<
     isFeatured: true,
   },
   "my-portfolio": {
-    title: "VERTEX.DEV Portfolio",
+    title: "BUILTBYRAHULX Portfolio",
     description:
       "Modern dark-themed developer portfolio featuring dynamic GitHub sync, neon glassmorphism UI, Framer Motion interactive animations, and responsive App Router architecture.",
     tags: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "GitHub API"],
-    homepage: "https://vertex.dev-portfolio.vercel.app/",
+    homepage: "https://builtbyrahulX-portfolio.vercel.app/",
     isFeatured: true,
   },
 };

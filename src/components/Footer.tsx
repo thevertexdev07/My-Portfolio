@@ -29,7 +29,7 @@ export default function Footer() {
     },
     {
       icon: Mail,
-      href: "mailto:vertex.dev@gmail.com",
+      href: "mailto:builtbyrahulX@gmail.com",
       label: "Email",
     },
   ];
@@ -84,7 +84,7 @@ export default function Footer() {
           >
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src="https://img.shields.io/github/followers/builtbyrahulX?style=social&label=Follow%20%40vertex.dev"
+              src="https://img.shields.io/github/followers/builtbyrahulX?style=social&label=Follow%20%40builtbyrahulX"
               alt="GitHub followers"
               className="opacity-60 transition-opacity hover:opacity-100"
             />

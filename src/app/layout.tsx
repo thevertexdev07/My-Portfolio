@@ -14,12 +14,12 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "Rahul Jangra | AI & Machine Learning Developer — VERTEX.DEV",
+  title: "Rahul Jangra | AI & Machine Learning Developer — BUILTBYRAHULX",
   description:
-    "Portfolio of Rahul Jangra (VERTEX.DEV) — AI & Machine Learning Developer, BCA student specializing in Neural Networks, GNN-LSTM models, Python, and CI/CD automation. Based in Mangaluru / Chennai, India.",
+    "Portfolio of Rahul Jangra (BUILTBYRAHULX) — AI & Machine Learning Developer, BCA student specializing in Neural Networks, GNN-LSTM models, Python, and CI/CD automation. Based in Mangaluru / Chennai, India.",
   keywords: [
     "Rahul Jangra",
-    "VERTEX.DEV",
+    "BUILTBYRAHULX",
     "AI Developer",
     "Machine Learning",
     "Portfolio",
@@ -32,10 +32,10 @@ export const metadata: Metadata = {
   authors: [{ name: "Rahul Jangra" }],
   openGraph: {
     type: "website",
-    title: "Rahul Jangra | AI & Machine Learning Developer — VERTEX.DEV",
+    title: "Rahul Jangra | AI & Machine Learning Developer — BUILTBYRAHULX",
     description:
       "AI & ML Developer building intelligent systems — Neural Networks, GNN-LSTM traffic simulations, and automated CI/CD pipelines.",
-    siteName: "VERTEX.DEV Portfolio",
+    siteName: "BUILTBYRAHULX Portfolio",
     locale: "en_IN",
   },
   twitter: {
